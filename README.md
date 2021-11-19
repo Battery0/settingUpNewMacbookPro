@@ -1,0 +1,1 @@
+Setting up git & github on new Macbook Pro.
